@@ -1,4 +1,14 @@
-### Hi there 👋
+<div id="badges" align="center">
+    <p>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=25&pause=1000&color=F9A826&center=true&width=500&height=40&lines=Hi!+I'm+Nicolo" alt="Typing SVG" />
+    </p>
+    <a href="https://www.linkedin.com/in/nicolo-contin-web-dev">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+    </a>
+    <a href="mailto:nicocontin@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
+    </a>
+</div>
 
 ## About Me
 
@@ -37,18 +47,8 @@
 
 <p  align='center'><img height='50em' src="https://www.codewars.com/users/ncontin/badges/large"/></p>
                                                                                               
+## :fire:  My stats
 
-<!--
-**ncontin/ncontin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align='center'>                                                                                                
+  <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=ncontin&theme=dark&background=000000"/>               
+</div>
