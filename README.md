@@ -9,6 +9,11 @@
 </a>
 </p>
 
+## ⚙️ &nbsp;Codewars Score
+
+<p  align='center'><img height='50em' src="https://www.codewars.com/users/ncontin/badges/large"/></p>
+                                                                                              
+
 <!--
 **ncontin/ncontin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
