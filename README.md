@@ -45,7 +45,12 @@
 
 ## ⚙️ &nbsp;Codewars Score
 
-<p  align='center'><img height='50em' src="https://www.codewars.com/users/ncontin/badges/large"/></p>
+<p align='center'>
+    <a href="https://www.codewars.com/users/ncontin">
+    <img src="https://github.r2v.ch/codewars?user=ncontin&name=true&top_languages=true&stroke=%23b362ff&hide_clan=true" />
+    </a>    
+</p>
+
                                                                                               
 ## :fire:  My stats
 
