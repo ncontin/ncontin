@@ -16,7 +16,7 @@
 - 💻🖥 Junior Full Stack Web Developer
 - 💬 I speak English, Italian and French
 - 🎙🎤🔊 Background in IT Support
-- 📌 I'm currently looking for a new opportunity
+- 📌 I'm currently enrolled at 42 Angouleme
 
 ## Languages and Tools
 
